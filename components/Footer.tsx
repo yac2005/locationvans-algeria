@@ -29,7 +29,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <h3 className="text-xl font-bold tracking-widest text-white mb-1">
-              {"LONAD DZ"}
+              {"Location DZ"}
             </h3>
             <p className="text-[#C9A84C] text-[10px] tracking-[0.25em] uppercase mb-4">
               {"Premium Van Rental"}
